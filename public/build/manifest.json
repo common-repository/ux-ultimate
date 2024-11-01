@@ -1,0 +1,22 @@
+{
+  "resources/js/app.js": {
+    "file": "js/app.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/css/main.css": {
+    "file": "css/main.css",
+    "src": "resources/css/main.css",
+    "isEntry": true
+  },
+  "resources/css/component.css": {
+    "file": "css/component.css",
+    "src": "resources/css/component.css",
+    "isEntry": true
+  },
+  "resources/css/animate.css": {
+    "file": "css/animate.css",
+    "src": "resources/css/animate.css",
+    "isEntry": true
+  }
+}

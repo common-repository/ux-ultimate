@@ -1,0 +1,16 @@
+{
+    "name": "ux-ultimate/ux-ultimate",
+    "description": "This is the plugin for more elements UX Builder Flatsome",
+    "type": "wordpress-plugin",
+    "license": "LGPL-3.0-or-later",
+    "require": {
+        "php": ">=7.1",
+        "duncan3dc/blade": "^4.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "UxUltimate\\Plugin\\": "classes/",
+            "UxUltimate\\Plugin\\Lib\\Blade\\": "lib/blade"
+        }
+    }
+}

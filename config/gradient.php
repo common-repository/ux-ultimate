@@ -1,0 +1,26 @@
+<?php
+
+return array(
+    ''   => '',
+    'uxu-type-gradient-1'   => 'Type 1',
+    'uxu-type-gradient-2'   => 'Type 2',
+    'uxu-type-gradient-3'   => 'Type 3',
+    'uxu-type-gradient-4'   => 'Type 4',
+    'uxu-type-gradient-5'   => 'Type 5',
+    'uxu-type-gradient-6'   => 'Type 6',
+    'uxu-type-gradient-7'   => 'Type 7',
+    'uxu-type-gradient-8'   => 'Type 8',
+    'uxu-type-gradient-9'   => 'Type 9',
+    'uxu-type-gradient-10'   => 'Type 10',
+    'uxu-type-gradient-11'   => 'Type 11',
+    'uxu-type-gradient-12'   => 'Type 12',
+    'uxu-type-gradient-13'   => 'Type 13',
+    'uxu-type-gradient-14'   => 'Type 14',
+    'uxu-type-gradient-15'   => 'Type 15',
+    'uxu-type-gradient-16'   => 'Type 16',
+    'uxu-type-gradient-17'   => 'Type 17',
+    'uxu-type-gradient-18'   => 'Type 18',
+    'uxu-type-gradient-19'   => 'Type 19',
+    'uxu-type-gradient-20'   => 'Type 20',
+    'uxu-type-gradient-21'   => 'Type 21',
+);

@@ -1,0 +1,12 @@
+/*@tailwind base;*/
+@tailwind components;
+
+.aaa-btn {
+    @apply uxu-px-4 uxu-py-2 uxu-font-bold uxu-rounded;
+}
+
+.aaa-btn-blue {
+    @apply uxu-py-2 uxu-font-bold uxu-text-white uxu-bg-blue-500 uxu-rounded hover:uxu-bg-blue-700;
+}
+
+@tailwind utilities;
